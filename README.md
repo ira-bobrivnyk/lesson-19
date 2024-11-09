@@ -1,1 +1,1 @@
-https://github.com/ira-bobrivnyk/lesson-19.git
+https://ira-bobrivnyk.github.io/lesson-19/
